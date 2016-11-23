@@ -7,7 +7,7 @@
     "dat.haus": "./index.js"
   },
   "dependencies": {
-    "JSONStream": "^1.1.2",
+    "JSONStream": "^1.2.1",
     "callback-timeout": "^2.1.0",
     "datland-swarm-defaults": "^1.0.0",
     "discovery-swarm": "^4.0.0",
